@@ -56,13 +56,13 @@ The purpose of this report is to investigate the relationship between training i
 
 Logistic regression is a supervised learning algorithm that is used to predict a categorical variable based on one or more predictor variables. The goal is to find the best set of coefficients that minimize the difference between the predicted attitude and the actual class labels.
 
-![ss1.jpg](photos/ss1.png)
+![ss1.png](photos/ss1.png)
 
 
-![ss1.jpg](photos/ss2.png)
+![ss2.png](photos/ss2.png)
 
 
-![ss1.jpg](photos/ss3.png)
+![ss3.png](photos/ss3.png)
 
 
-![ss1.jpg](photos/ss4.png)
+![ss4.png](photos/ss4.png)
