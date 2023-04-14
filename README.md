@@ -55,3 +55,14 @@ Lending companies lend money to borrowers expecting them to complete the lending
 The purpose of this report is to investigate the relationship between training imbalanced data and over sampling, and determining if it makes a difference through logistic regression machine learning algorithms.
 
 Logistic regression is a supervised learning algorithm that is used to predict a categorical variable based on one or more predictor variables. The goal is to find the best set of coefficients that minimize the difference between the predicted attitude and the actual class labels.
+
+![ss1.jpg](photos/ss1.png)
+
+
+![ss1.jpg](photos/ss2.png)
+
+
+![ss1.jpg](photos/ss3.png)
+
+
+![ss1.jpg](photos/ss4.png)
